@@ -2,7 +2,6 @@
 Hybrid-stable sorting algorithm that works on all comparable element types (faster than mergesort)
 
 =======
-Certainly! Here's a detailed description of the provided C code, which can be included in a `README.md` file for GitHub.
 
 # Sorting Algorithm Benchmarking
 
