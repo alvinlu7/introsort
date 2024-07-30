@@ -1,8 +1,6 @@
 # introsort
 Hybrid-stable sorting algorithm that works on all comparable element types (faster than mergesort)
 
-Certainly! Here's a detailed description of the provided C code, which can be included in a `README.md` file for GitHub.
-
 # Sorting Algorithm Benchmarking
 
 This repository contains a C program that benchmarks the performance of different sorting algorithms. The main focus is on comparing Introsort and Mergesort. The program measures the time taken by each algorithm to sort arrays of various sizes.
