@@ -1,8 +1,6 @@
 # introsort
 Hybrid-stable sorting algorithm that works on all comparable element types (faster than mergesort)
 
-=======
-
 # Sorting Algorithm Benchmarking
 
 This repository contains a C program that benchmarks the performance of different sorting algorithms. The main focus is on comparing Introsort and Mergesort. The program measures the time taken by each algorithm to sort arrays of various sizes.
@@ -80,22 +78,16 @@ The `main` function performs the following:
    Use a C compiler (e.g., `clang`) to compile the source code.
 
    ```bash
-<<<<<<< HEAD
    clang -o introsort introsort.c
-=======
    clang -o sorting_benchmark sorting_benchmark.c
->>>>>>> 5f963bf ([feat] cleaning up for BLAS library)
    ```
 
 2. **Run the Benchmark**:
    Execute the compiled binary to run the benchmarks.
 
    ```bash
-<<<<<<< HEAD
    ./introsort
-=======
    ./sorting_benchmark
->>>>>>> 5f963bf ([feat] cleaning up for BLAS library)
    ```
 
    The program will output the average execution time for each sorting algorithm across various array sizes.
@@ -115,11 +107,7 @@ Contributions are welcome! Please open an issue or pull request to suggest impro
 
 ## Contact
 
-<<<<<<< HEAD
 For questions or feedback, please reach out to [alvinlu7@gmail.com](mailto:alvinlu7@gmail.com).
-=======
-For questions or feedback, please reach out to [your-email@example.com](mailto:your-email@example.com).
->>>>>>> 5f963bf ([feat] cleaning up for BLAS library)
 
 ---
 
