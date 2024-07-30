@@ -78,14 +78,14 @@ The `main` function performs the following:
    Use a C compiler (e.g., `clang`) to compile the source code.
 
    ```bash
-   clang -o sorting_benchmark sorting_benchmark.c
+   clang -o introsort introsort.c
    ```
 
 2. **Run the Benchmark**:
    Execute the compiled binary to run the benchmarks.
 
    ```bash
-   ./sorting_benchmark
+   ./introsort
    ```
 
    The program will output the average execution time for each sorting algorithm across various array sizes.
@@ -105,7 +105,7 @@ Contributions are welcome! Please open an issue or pull request to suggest impro
 
 ## Contact
 
-For questions or feedback, please reach out to [your-email@example.com](mailto:your-email@example.com).
+For questions or feedback, please reach out to [alvinlu7@gmail.com](mailto:alvinlu7@gmail.com).
 
 ---
 
